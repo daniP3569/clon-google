@@ -4,8 +4,10 @@ Proyecto creado en **Tecnolochicas Pro** simulando la página principal del nave
 Gracias a la ayuda del bootcamp pude realizar el clon del navegador de **google**
 ## Intro
 El presente trabajo fue realizado con ayuda de **HTML y CSS**.Se trata de un navegador usado frecuentemente por las personas.
-*Podras visitarlo en el siguiente enlace
-![clon](imagenes/Captura-clon de google.png)
+Podras visitarlo en el siguiente enlace
+
+![Google](imagenes/Captura-clon de google.png)
+
 **"Cada historia de éxito es una historia de constante adaptación, revisión y cambio". Richard Branson.**
 ## Contenido del proyecto 
 1. Header
