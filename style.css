@@ -44,6 +44,8 @@ background-size: contain;
 main{
     margin: 150px;
     text-align: center;
+    height: 10px;
+    margin: 20px;
 }
 .main-logo{
     width: 530px;
